@@ -39,7 +39,7 @@ and learning how **real systems work internally**.
 
 ---
 
-## 🧩 Featured Project
+## 🧩 Featured Projects
 
 ### 🎯 SpotMySeat
 A real-world focused project with clean UI and efficient logic.
